@@ -1,0 +1,8 @@
+GIT BASH DOWNLOAD: https://git-scm.com/downloads
+
+git clone https://github.com/Alcheringa-IITG/IITGPLACES
+//GO TO THAT FOLDER NOW
+
+git add .
+git commit -m "ADDED PLACE: PLAYGROUND"
+git push origin master
