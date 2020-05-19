@@ -6,3 +6,25 @@ git clone https://github.com/Alcheringa-IITG/IITGPLACES
 git add .
 git commit -m "ADDED PLACE: PLAYGROUND"
 git push origin master
+
+
+## TASK 2:(CREATE A IMAGE CLASSIFIER: TFLITE MODEL)
+Install Python/Anaconda: (WINDOWS)https://repo.anaconda.com/archive/Anaconda3-2020.02-Windows-x86_64.exe
+                          (LINUX)https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+
+
+Open CMD:
+//check python is installed or not 
+python
+Ctrl+Z to exit
+pip install --upgrade pip
+pip install tensorflow
+
+VISUAL STUDIO BUILD TOOLS MUST BE INSTALLED [SETUP FILE UPLOADED]
+pip install tflite-support
+
+Python code: train.py
+
+
+
+
