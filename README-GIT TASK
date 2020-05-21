@@ -22,6 +22,7 @@ pip install tensorflow
 
 VISUAL STUDIO BUILD TOOLS MUST BE INSTALLED [SETUP FILE UPLOADED]
 pip install tflite-support
+pip install git+https://github.com/tensorflow/examples.git#egg=tensorflow-examples[model_maker]
 
 Python code: train.py
 Open Spyder : go to cmd type spyder
