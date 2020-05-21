@@ -24,6 +24,18 @@ VISUAL STUDIO BUILD TOOLS MUST BE INSTALLED [SETUP FILE UPLOADED]
 pip install tflite-support
 
 Python code: train.py
+Open Spyder : go to cmd type spyder
+Run this script
+
+Task 3: (Create Model for IITG) 
+Now replace flowers inside dataset folder 
+with iitg photos folder
+Make sure "only small letter" name of photo 
+See C:\Users\Name\.keras\dataset
+Run this script again 
+
+It will create another model.tflite 
+Upload this tflite to github
 
 
 
